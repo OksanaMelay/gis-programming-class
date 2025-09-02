@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "2",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "OBVG3D25_PMS_20231015100840_200203934_101_0002_001_L1", "pixelResolution": 0.75, "acquisitionDate": "2023-10-15T10:08:45", "productType": "", "sensor": "PMS", "colorBandOrder": "B,G,R,NIR,PAN", "cloudCover": 100.0, "offNadirAngle": -0.73, "source": "PMS", "previewType": "png", "previewUrl": "https://tileproxy-staging.mapflow.ai/orbview-api/preview/ob1/OBVG3D25_PMS_20231015100840_200203934_101_0002_001_L1?AccessKeyId=DED20EVJTJHTHOCF2MJV&Expires=1862303208&Signature=3w%2BkWB4X2zONuLKn3CccYY6pSyE%3D", "providerName": "ORBVIEW", "local_index": 22 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 151.143, -33.7545 ], [ 151.329, -33.7878 ], [ 151.288, -33.9445 ], [ 151.102, -33.9112 ], [ 151.143, -33.7545 ] ] ] } }
-]
-}

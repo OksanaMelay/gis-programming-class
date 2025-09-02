@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "gcp_footprint",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": "OBS1C_PMSR6_20240903174846_200298442_103_0002_001_L1", "pixelResolution": 0.6, "acquisitionDate": "2024-09-03T17:48:50", "productType": "", "sensor": "PMSR6", "colorBandOrder": "PAN,B,G,R,NIR", "cloudCover": 0.0, "offNadirAngle": 23.73, "source": "PMSR6", "previewType": "png", "previewUrl": "https://tileproxy-staging.mapflow.ai/orbview-api/preview/ob1/OBS1C_PMSR6_20240903174846_200298442_103_0002_001_L1?AccessKeyId=DED20EVJTJHTHOCF2MJV&Expires=1870833906&Signature=245hoIui31oQp0Ji14RnnotToy8%3D", "providerName": "ORBVIEW", "local_index": 0 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 30.2583, 60.0317 ], [ 30.5711, 59.9757 ], [ 30.4697, 59.8533 ], [ 30.1578, 59.9091 ], [ 30.2583, 60.0317 ] ] ] } }
-]
-}
